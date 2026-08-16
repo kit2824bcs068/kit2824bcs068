@@ -124,7 +124,7 @@ print(me.motto())
 
 <p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=kit2824bcs068&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=kit2824bcs068&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=kit2824bcs068&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -251,7 +251,7 @@ Coursework: Data Structures & Algorithms · Computer Architecture · Computer Ne
 ### 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kit2824bcs068&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kit2824bcs068&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8&v=2" />
 </p>
 
 <p align="center">
