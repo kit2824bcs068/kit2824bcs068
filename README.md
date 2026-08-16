@@ -1,15 +1,16 @@
 <!-- ============================================================
      1. HERO BANNER
 ============================================================ -->
-<h1 align="center">Jemeena J</h1>
-<p align="center"><i>Computer Science Undergraduate | AI/ML &amp; Cybersecurity Enthusiast</i></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jemeena%20J&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Science%20Undergraduate%20%7C%20AI%2FML%2C%20Agentic%20AI%20and%20Full-Stack%20Enthusiast&descAlignY=62&descSize=16&v=5" width="100%"/>
+</p>
 
 <!-- ============================================================
      2. TYPING HEADER
 ============================================================ -->
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+There%2C+I+am+Jemeena+J;B.E.+Computer+Science+Engineering+Student;AI%2FML+Explorer+%7C+Cybersecurity+Enthusiast;Competitive+Programmer+%7C+LeetCode+Knight" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+There%2C+I+am+Jemeena+J;B.E.+Computer+Science+Engineering+Student;Exploring+AI%2FML%2C+Agentic+AI+%26+Full-Stack+Dev;Learning+DSA+%7C+Improving+Problem+Solving+Daily" alt="Typing SVG" />
   </a>
 </p>
 
@@ -35,6 +36,10 @@ class Jemeena:
         self.location    = "Coimbatore, Tamil Nadu, India"
         self.degree      = "B.E. Computer Science & Engineering (2024 - 2028)"
 
+        self.interests = [
+            "AI/ML", "Agentic AI", "Full-Stack Development",
+        ]
+
         self.stack = {
             "languages" : ["Java", "Python", "C++", "C", "SQL"],
             "web"       : ["HTML", "CSS", "JavaScript"],
@@ -44,8 +49,9 @@ class Jemeena:
         }
 
         self.currently_learning = [
-            "Advanced Data Structures & Algorithms",
-            "Advanced Java",
+            "Data Structures & Algorithms (solving daily)",
+            "Agentic AI",
+            "Full-Stack Development",
         ]
 
         self.fun_fact = (
