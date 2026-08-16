@@ -10,7 +10,7 @@
 ============================================================ -->
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+There!+I'm+Jemeena+J;B.E.+Computer+Science+Engineering+Student;AI%2FML+Explorer+%7C+Cybersecurity+Enthusiast;Competitive+Programmer+%7C+LeetCode+Knight" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+There%2C+I+am+Jemeena+J;B.E.+Computer+Science+Engineering+Student;AI%2FML+Explorer+%7C+Cybersecurity+Enthusiast;Competitive+Programmer+%7C+LeetCode+Knight" alt="Typing SVG" />
   </a>
 </p>
 
