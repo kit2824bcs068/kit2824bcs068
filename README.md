@@ -1,9 +1,8 @@
 <!-- ============================================================
      1. HERO BANNER
 ============================================================ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jemeena%20J&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Science%20Undergraduate%20%7C%20AI%2FML%20and%20Cybersecurity%20Enthusiast&descAlignY=62&descSize=16&v=3" width="100%"/>
-</p>
+<h1 align="center">Jemeena J</h1>
+<p align="center"><i>Computer Science Undergraduate | AI/ML &amp; Cybersecurity Enthusiast</i></p>
 
 <!-- ============================================================
      2. TYPING HEADER
@@ -124,7 +123,6 @@ print(me.motto())
 
 <p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=kit2824bcs068&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=kit2824bcs068&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -246,13 +244,9 @@ Coursework: Data Structures & Algorithms · Computer Architecture · Computer Ne
 ---
 
 <!-- ============================================================
-     11. GITHUB TROPHIES
+     11. GITHUB ACTIVITY
 ============================================================ -->
-### 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kit2824bcs068&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8&v=2" />
-</p>
+### 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kit2824bcs068&theme=tokyo-night&hide_border=true" width="100%"/>
