@@ -2,7 +2,7 @@
      1. HERO BANNER
 ============================================================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jemeena%20J&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Science%20Undergraduate%20%7C%20AI%2FML%20%26%20Cybersecurity%20Enthusiast&descAlignY=62&descSize=16&v=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jemeena%20J&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Science%20Undergraduate%20%7C%20AI%2FML%20and%20Cybersecurity%20Enthusiast&descAlignY=62&descSize=16&v=3" width="100%"/>
 </p>
 
 <!-- ============================================================
