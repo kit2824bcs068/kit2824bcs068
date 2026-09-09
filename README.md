@@ -272,7 +272,9 @@ Coursework: Data Structures & Algorithms · Computer Architecture · Computer Ne
 ### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kit2824bcs068&theme=tokyo-night&hide_border=true&v=2" width="100%"/>
+  <a href="https://github.com/kit2824bcs068">
+    <img src="https://ghchart.rshah.org/70A5FD/kit2824bcs068" alt="kit2824bcs068's GitHub Contribution Chart" width="100%"/>
+  </a>
 </p>
 
 ---
