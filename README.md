@@ -184,6 +184,23 @@ Benchmarked deep learning architectures for pepper leaf disease classification o
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+**📄 [DocuChat — AI Powered PDF Assistant](https://github.com/kit2824bcs068)**
+
+`Python` `Streamlit` `LangChain` `Google Gemini API` `PyPDF2`
+
+An AI web app that lets users upload PDFs and get instant answers to natural-language questions.
+
+- 🤖 Integrated **Google Gemini 2.0 Flash** with **LangChain** implementing RAG architecture for intelligent document retrieval
+- 📚 Built PDF text extraction and chunking with **PyPDF2** and LangChain Text Splitters for accurate responses
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
 ---
@@ -194,21 +211,21 @@ Benchmarked deep learning architectures for pepper leaf disease classification o
 ### 🏁 Competitive Programming
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Contest_Rating_1877-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/LeetCode-Top_5.35%25_Global-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-Contest_Rating_1871-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-Top_5.59%25_Global-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
   <img src="https://img.shields.io/badge/LeetCode-Knight_🛡️-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/CodeChef-Rating_1408-5B4638?style=flat-square&logo=codechef&logoColor=white" />
-  <img src="https://img.shields.io/badge/CodeChef-800%2B_Problems_Solved-5B4638?style=flat-square&logo=codechef&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codeforces-Rating_979-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeChef-Rating_1400-5B4638?style=flat-square&logo=codechef&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeChef-900%2B_Problems_Solved-5B4638?style=flat-square&logo=codechef&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codeforces-Rating_992-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
 </p>
 
 | Platform | Max Rating | Solved | Rank / Level |
 |---|---|---|---|
-| [LeetCode](https://leetcode.com/u/Jemeena_J/) | 1877 | 135+ | Global Rank 45,726/878,139 · Top 5.35% · Knight (28 contests) |
-| [CodeChef](https://www.codechef.com/users/balaramanm) | 1408 (DSA: 1694) | 800+ | 2★ · Div 4 · Global Rank 42,849 |
-| [Codeforces](https://codeforces.com/profile/Jemeena_J) | 979 | 15+ | Newbie |
+| [LeetCode](https://leetcode.com/u/Jemeena_J/) | 1871 | 160+ | Global Rank 47,959 · Top 5.59% · Knight (3 badges) |
+| [CodeChef](https://www.codechef.com/users/kit28csc068) | 1400 (DSA: 1676) | 900+ | 2★ · Div 4 · Global Rank 45,084 |
+| [Codeforces](https://codeforces.com/profile/Jemeena_J) | 992 | 20+ | Newbie |
 
 ---
 
@@ -218,10 +235,10 @@ Benchmarked deep learning architectures for pepper leaf disease classification o
 ### 🏆 Achievements & Certifications
 
 - 🥇 **Grand Finalist**, Techideathon 2026 — VIT Mauritius
-- 🎖️ Earned the LeetCode **Knight** badge with a contest rating of **1877**
+- 🎖️ Earned the LeetCode **Knight** badge with a contest rating of **1871** — top 25% site-wide among 35,000+ Knight-tier competitors
 - 💡 Actively participated in **10+ hackathons**, collaborating with cross-functional teams
-- 🧩 Solved **800+** problems on CodeChef across **49** contests
-- 🌍 Ranked **Top 5.35%** globally on LeetCode (28 contests attended)
+- 🧩 Solved **900+** problems on CodeChef across **50+** contests
+- 🌍 Ranked **Top 5%** globally on LeetCode and earned the **50 Days & 100 Days** streak badges for consistent daily problem-solving
 
 **Certifications**
 <p>
@@ -255,7 +272,7 @@ Coursework: Data Structures & Algorithms · Computer Architecture · Computer Ne
 ### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kit2824bcs068&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kit2824bcs068&theme=tokyo-night&hide_border=true&v=2" width="100%"/>
 </p>
 
 ---
@@ -271,7 +288,7 @@ Coursework: Data Structures & Algorithms · Computer Architecture · Computer Ne
   <a href="https://github.com/kit2824bcs068"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://leetcode.com/u/Jemeena_J/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/Jemeena_J"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/balaramanm"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/kit28csc068"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 </p>
 
 <!-- ============================================================
